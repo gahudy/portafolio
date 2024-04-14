@@ -1,0 +1,16 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+}
+ul {
+    list-style: none;
+    color:aliceblue;
+}
+main {
+    color: antiquewhite;
+
+}
