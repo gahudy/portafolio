@@ -1,0 +1,33 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+header{
+    display: inline;
+}
+
+h1 {
+    color: aliceblue;
+    text-shadow: 5px;
+    box-shadow: 20px;
+    box-shadow: color(srgb red green blue);
+}
+ul {
+    list-style: none;
+    color:aliceblue;
+}
+ul li {
+    display: inline;
+    margin: 10px;
+    font-size: 20px;
+}
+li {
+    padding-top: 10px;
+}
+
+main {
+    color: antiquewhite;
+    padding: 20px;
+    margin: auto;
+
+}
